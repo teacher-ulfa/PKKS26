@@ -1,6 +1,8 @@
 {
-  "name": "Portal PKKS SMAN 1 Krembung - Presentasi Program Sekolah Berbasis Data",
+  "name": "Portal PKKS smankrez 26",
   "description": "Dashboard visualisasi data prestasi Kepala Sekolah, GTK, Siswa, dan rencana strategis mutu sekolah berbasis Rapor Pendidikan untuk PKKS SMAN 1 Krembung.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

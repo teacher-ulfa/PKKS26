@@ -33,7 +33,7 @@ export const Footer: React.FC = () => {
               </div>
             </div>
             <p className="text-slate-400 leading-relaxed text-xs">
-              Portal Resmi Penilaian Kinerja Kepala Sekolah (PKKS) Tahun Pelajaran 2026/2027. Praktik kepemimpinan berbasis data untuk peningkatan mutu pembelajaran di Ruang GTK.
+              Portal Resmi Penilaian Kinerja Kepala Sekolah (PKKS) Tahun Penilaian: 2026. Praktik kepemimpinan berbasis data untuk peningkatan mutu pembelajaran di Ruang GTK.
             </p>
             <div className="text-[11px] text-slate-500">
               Kepala Sekolah: <span className="text-slate-300 font-medium">{PRINCIPAL_PROFILE.name}</span>

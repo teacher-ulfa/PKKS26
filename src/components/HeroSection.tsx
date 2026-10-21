@@ -42,9 +42,9 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
             <span className="text-white font-medium">Ruang GTK SMAN 1 Krembung</span>
           </div>
           <div className="flex items-center gap-3">
-            <span className="text-slate-400">Tahun Pelajaran:</span>
+            <span className="text-slate-400">Tahun Penilaian:</span>
             <span className="px-2 py-0.5 bg-blue-900/60 border border-blue-700/50 rounded text-cyan-300 font-mono">
-              2026/2027
+              2026
             </span>
           </div>
         </div>

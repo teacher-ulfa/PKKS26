@@ -19,7 +19,7 @@ export const PKKS_PRESENTATION_SLIDES: PresentationSlide[] = [
     slideNumber: '01',
     badge: 'PENILAIAN KINERJA KEPALA SEKOLAH (PKKS)',
     title: 'Praktik Kepemimpinan Berbasis Data untuk Peningkatan Mutu Pembelajaran',
-    subtitle: 'SMA Negeri 1 Krembung · Ruang GTK · Tahun Pelajaran 2026/2027',
+    subtitle: 'SMA Negeri 1 Krembung · Ruang GTK · Tahun Penilaian: 2026',
     talkingPoints: [
       'Selamat datang Bapak/Ibu Pengawas Sekolah di Ruang GTK SMAN 1 Krembung.',
       'Presentasi ini menguraikan kepemimpinan pembelajaran (Instructional Leadership) berbasis data riil Rapor Pendidikan.',
